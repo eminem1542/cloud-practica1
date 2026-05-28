@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/alumnos/lista', (req, res) => {
-  
+// hola esto es un comentarop  
    console.log("Eduardo")
    console.log("Daniel")
    console.log("Lura")
