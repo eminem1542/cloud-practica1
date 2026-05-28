@@ -11,7 +11,7 @@ app.set('view engine', 'ejs');
 app.get('/pagina', (req, res) => {
   
   res.render('index')
-});
+});/* 
 app.get('/sistema-solar', (req, res) => {
   
   res.render('planetas/sistema')
@@ -42,7 +42,7 @@ app.get('/hola', (req, res) => {
     
 });
 
-// podemos mandar al cliente paginas web
+// podemos mandar al cliente paginas web */
 
 
 
